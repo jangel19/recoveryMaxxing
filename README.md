@@ -1,4 +1,4 @@
-# RecoveryMaxxing
+# PhysioRecovery – Garmin Recovery Scoring App (RecoveryMaxxing)
 
 A Garmin Connect IQ watch app that gives you a daily recovery score. Built because WHOOP is expensive, their new algorithm has been getting criticized, and their Training Readiness feature is centered around workouts rather than actual physiological recovery. This is my attempt at building something better and open.
 
